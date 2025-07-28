@@ -29,9 +29,8 @@ IMPORTANT: Update these before submitting to App Store
    Add these files:
    - screenshot-1.png (Welcome Screen)
    - screenshot-2.png (Menu Scanner)
-   - screenshot-3.png (Food Analysis)
-   - screenshot-4.png (Restaurant Discovery)
-   - screenshot-5.png (Landmark Recognition)
+   - screenshot-3.png (Restaurant Discovery)
+   - screenshot-4.png (Landmark Recognition)
    - miradors-preview.png (1200x630 for social media)
 
 5. GITHUB PAGES SETUP
