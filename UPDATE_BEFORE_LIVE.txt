@@ -1,0 +1,46 @@
+IMPORTANT: Update these before submitting to App Store
+======================================================
+
+1. SUPPORT EMAIL
+   Current: support@miradors.app
+   Update to: Your actual support email (e.g., gongzitao+miradors@gmail.com)
+   
+   Files to update:
+   - index.html (line 250)
+   - privacy-policy.html (line 194)
+   - support.html (lines 122, 215, 221)
+
+2. WEBSITE URL
+   Current: https://miradors.app
+   Update to: https://gongzitao.github.io/miradors/
+   
+   Files to update:
+   - privacy-policy.html (line 195)
+   - support.html (line 220)
+
+3. APP STORE LINK
+   Current: # (placeholder)
+   Update to: Actual App Store URL when available
+   
+   Files to update:
+   - index.html (download buttons)
+
+4. SCREENSHOTS
+   Add these files:
+   - screenshot-1.png (Welcome Screen)
+   - screenshot-2.png (Menu Scanner)
+   - screenshot-3.png (Food Analysis)
+   - screenshot-4.png (Restaurant Discovery)
+   - screenshot-5.png (Landmark Recognition)
+   - miradors-preview.png (1200x630 for social media)
+
+5. GITHUB PAGES SETUP
+   After pushing to GitHub:
+   1. Go to: https://github.com/gongzitao/miradors/settings/pages
+   2. Source: Deploy from a branch
+   3. Branch: main
+   4. Folder: / (root)
+   5. Save
+
+Your site will be live at: https://gongzitao.github.io/miradors/
+(May take 5-10 minutes to activate)
