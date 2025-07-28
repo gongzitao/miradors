@@ -31,6 +31,7 @@ IMPORTANT: Update these before submitting to App Store
    - screenshot-2.png (Menu Scanner)
    - screenshot-3.png (Restaurant Discovery)
    - screenshot-4.png (Landmark Recognition)
+   - screenshot-5.png (Travel Chat Assistant)
    - miradors-preview.png (1200x630 for social media)
 
 5. GITHUB PAGES SETUP

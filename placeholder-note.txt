@@ -3,6 +3,7 @@ Screenshot Placeholders Needed:
 - screenshot-2.png (Menu Scanner) 
 - screenshot-3.png (Restaurant Discovery)
 - screenshot-4.png (Landmark Recognition)
+- screenshot-5.png (Travel Chat Assistant)
 - miradors-preview.png (1200x630 social preview)
 
 These should be actual screenshots from your app before deploying to production.
